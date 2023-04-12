@@ -1,4 +1,5 @@
 # flutter_dicee_app
+![dicee](https://user-images.githubusercontent.com/99839506/231316948-cb4e04d4-747e-4dcc-8061-4d4e438a38e1.jpeg)
 
 A new Flutter project.
 
